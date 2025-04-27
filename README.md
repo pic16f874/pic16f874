@@ -5,5 +5,5 @@
 | GM            | n..y.i..v.76  |  [KNA]        | 
 |               |               |               | .4.4.6
 | Always ready  |               |  (KNA)        | 1853        | 678192
-| Volcano       |               |  (N**)2**2O7  |   
+| Volcano       |               |  (N.4)2..2O7  |   
 |
