@@ -6,7 +6,7 @@
 |               |               |               | .4.4.6
 | Always ready  |               |  (KNA)        | 1853        | 678192
 | Volcano       |               |  (N.4)2..2O7  |   
-| inv | aP7d    | (2q) | o8
-| pic | d-tty8  |  8J  | gi
-||
+| inv | aP7d    | (_2q_)        | o8
+| pic | d-tty8  |  8J           | gi
+|xrmi8a|2t | 4yr| M  | (_2Y_)        | SRL3
 ||
